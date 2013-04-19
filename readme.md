@@ -20,8 +20,7 @@ People are given these roles.
 
 They are given this prompt (tentative).
 
-> Applications to trade schools have dropped substantially over the past decade.
-> 
+>
 
 > Put yourself in the stakeholder's shoes. The stakeholder probably won't know
 > the same things that you do, so he or she will react differently than you would.
@@ -30,6 +29,9 @@ We write down problems by group on cards.
 
 People are asked to keep their comments short, and Tom will stop them if they take
 too long.
+
+After two groups, we shift from thinking about considerations for each group to
+building a policy that considers these.
 
 After four minutes, a new group comes in.
 
