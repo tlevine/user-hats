@@ -21,4 +21,20 @@ People are given these roles.
 They are given this prompt (tentative).
 
 > Applications to trade schools have dropped substantially over the past decade.
-> Should we do something because of this? If so, what?
+> 
+
+
+
+> Put yourself in the stakeholder's shoes. The stakeholder probably won't know
+> the same things that you do, so he or she will react differently than you would.
+
+After four minutes, a new group comes in.
+
+
+
+
+
+Ideas
+
+* Keep it simple because it's early in the morning.
+* The people like to feel like they're smart and to be told that.
