@@ -23,10 +23,13 @@ They are given this prompt (tentative).
 > Applications to trade schools have dropped substantially over the past decade.
 > 
 
-
-
 > Put yourself in the stakeholder's shoes. The stakeholder probably won't know
 > the same things that you do, so he or she will react differently than you would.
+
+We write down problems by group on cards.
+
+People are asked to keep their comments short, and Tom will stop them if they take
+too long.
 
 After four minutes, a new group comes in.
 
@@ -41,3 +44,4 @@ Ideas
 * Questions
   * Lower property taxes on houses 3 br+
   * Infrastructure
+  * Public-private board
