@@ -38,3 +38,6 @@ Ideas
 
 * Keep it simple because it's early in the morning.
 * The people like to feel like they're smart and to be told that.
+* Questions
+  * Lower property taxes on houses 3 br+
+  * 
