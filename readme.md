@@ -21,3 +21,4 @@ People are given these roles.
 They are given this prompt (tentative).
 
 > Applications to trade schools have dropped substantially over the past decade.
+> Should we do something because of this? If so, what?
